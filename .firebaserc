@@ -1,5 +1,8 @@
 {
   "projects": {
-    "default": "strawberry-2b2e2"
-  }
+    "default": "strawberry-2b2e2",
+    "firebase use strawberry-2b2e2": "farmmanagement-5a799"
+  },
+  "targets": {},
+  "etags": {}
 }
